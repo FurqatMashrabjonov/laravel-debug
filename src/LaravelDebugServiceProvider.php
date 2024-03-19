@@ -2,9 +2,9 @@
 
 namespace Furqat\LaravelDebug;
 
+use Furqat\LaravelDebug\Commands\LaravelDebugCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Furqat\LaravelDebug\Commands\LaravelDebugCommand;
 
 class LaravelDebugServiceProvider extends PackageServiceProvider
 {

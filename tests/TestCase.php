@@ -2,9 +2,9 @@
 
 namespace Furqat\LaravelDebug\Tests;
 
+use Furqat\LaravelDebug\LaravelDebugServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Furqat\LaravelDebug\LaravelDebugServiceProvider;
 
 class TestCase extends Orchestra
 {
