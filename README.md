@@ -1,9 +1,9 @@
 # This is my package laravel-debug
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/61729454-furqatmashrabjonov/laravel-debug.svg?style=flat-square)](https://packagist.org/packages/61729454-furqatmashrabjonov/laravel-debug)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/61729454-furqatmashrabjonov/laravel-debug/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/61729454-furqatmashrabjonov/laravel-debug/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/61729454-furqatmashrabjonov/laravel-debug/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/61729454-furqatmashrabjonov/laravel-debug/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/61729454-furqatmashrabjonov/laravel-debug.svg?style=flat-square)](https://packagist.org/packages/61729454-furqatmashrabjonov/laravel-debug)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/furqat/laravel-debug.svg?style=flat-square)](https://packagist.org/packages/furqat/laravel-debug)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/furqat/laravel-debug/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/furqat/laravel-debug/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/furqat/laravel-debug/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/furqat/laravel-debug/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![Total Downloads](https://img.shields.io/packagist/dt/furqat/laravel-debug.svg?style=flat-square)](https://packagist.org/packages/furqat/laravel-debug)
 
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
 
@@ -20,7 +20,7 @@ We highly appreciate you sending us a postcard from your hometown, mentioning wh
 You can install the package via composer:
 
 ```bash
-composer require 61729454-furqatmashrabjonov/laravel-debug
+composer require furqat/laravel-debug
 ```
 
 You can publish and run the migrations with:
@@ -76,7 +76,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Furqatbek Mashrabjonov](https://github.com/61729454+FurqatMashrabjonov)
+- [Furqatbek Mashrabjonov](https://github.com/FurqatMashrabjonov)
 - [All Contributors](../../contributors)
 
 ## License
